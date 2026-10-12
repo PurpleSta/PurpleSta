@@ -19,6 +19,11 @@ A passionate full-stack developer and computer science student focused on buildi
 
 ---
 
+### Connect & Portfolio
+- **Portfolio:** [pnsoftechsolutions.co.ke](https://pnsoftechsolutions.co.ke)
+- **GitHub:** [PurpleSta](https://github.com/PurpleSta)
+- **Linkedin:** [Patricia Nekesa](https://linkedin.com/in/patricia-nekesa)
+- 
 ### GitHub Stats
 
 <p align="center">
