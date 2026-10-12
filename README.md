@@ -19,11 +19,12 @@ A passionate full-stack developer and computer science student focused on buildi
 
 ---
 
-### Connect & Portfolio
-- **Portfolio:** [pnsoftechsolutions.co.ke](https://pnsoftechsolutions.co.ke)
-- **GitHub:** [PurpleSta](https://github.com/PurpleSta)
-- **Linkedin:** [Patricia Nekesa](https://linkedin.com/in/patricia-nekesa)
-- 
+### Let's Connect
+
+- [![Portfolio](https://img.shields.io/badge/Website-pnsoftechsolutions.co.ke-000?style=flat&logo=google-chrome&logoColor=white)](https://pnsoftechsolutions.co.ke)
+- [![GitHub](https://img.shields.io/badge/GitHub-PurpleSta-181717?style=flat&logo=github&logoColor=white)](https://github.com/PurpleSta)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Patricia_Nekesa-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricia-nekesa)
+  
 ### GitHub Stats
 
 <p align="center">
